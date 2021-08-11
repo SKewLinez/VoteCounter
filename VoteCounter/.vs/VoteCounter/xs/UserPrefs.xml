@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{A2E48E35-B745-40C5-9444-73C2678C0916}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VoteCounter/VoteCounterForm.cs">
+    <Files>
+      <File FileName="VoteCounter/VoteCounterForm.cs" Line="1" Column="1" />
+      <File FileName="VoteCounter/VoteCounter.cs" Line="1" Column="1" />
+      <File FileName="VoteCounter/Vote.cs" Line="1" Column="1" />
+      <File FileName="VoteCounter/Program.cs" Line="1" Column="1" />
+      <File FileName="VoteCounter/App.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VoteCounter" expanded="True">
+            <Node name="VoteCounter" expanded="True">
+              <Node name="VoteCounterForm.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.VoteCounter PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

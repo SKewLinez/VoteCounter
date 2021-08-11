@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\VoteCounter\VoteCounter\bin\Debug\VoteCounter.exe.config
+C:\Users\user\source\repos\VoteCounter\VoteCounter\bin\Debug\VoteCounter.exe
+C:\Users\user\source\repos\VoteCounter\VoteCounter\bin\Debug\VoteCounter.pdb
+C:\Users\user\source\repos\VoteCounter\VoteCounter\obj\Debug\VoteCounter.csprojAssemblyReference.cache
+C:\Users\user\source\repos\VoteCounter\VoteCounter\obj\Debug\VoteCounter.Properties.Resources.resources
+C:\Users\user\source\repos\VoteCounter\VoteCounter\obj\Debug\VoteCounter.csproj.GenerateResource.cache
+C:\Users\user\source\repos\VoteCounter\VoteCounter\obj\Debug\VoteCounter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\VoteCounter\VoteCounter\obj\Debug\VoteCounter.exe
+C:\Users\user\source\repos\VoteCounter\VoteCounter\obj\Debug\VoteCounter.pdb
+C:\Users\user\source\repos\VoteCounter\VoteCounter\obj\Debug\VoteCounter.VoteCounterForm.resources
+D:\Agile Development With .NET\Assignment3\VoteCounter\VoteCounter\VoteCounter\bin\Debug\VoteCounter.exe.config
+D:\Agile Development With .NET\Assignment3\VoteCounter\VoteCounter\VoteCounter\bin\Debug\VoteCounter.exe
+D:\Agile Development With .NET\Assignment3\VoteCounter\VoteCounter\VoteCounter\bin\Debug\VoteCounter.pdb
+D:\Agile Development With .NET\Assignment3\VoteCounter\VoteCounter\VoteCounter\obj\Debug\VoteCounter.VoteCounterForm.resources
+D:\Agile Development With .NET\Assignment3\VoteCounter\VoteCounter\VoteCounter\obj\Debug\VoteCounter.Properties.Resources.resources
+D:\Agile Development With .NET\Assignment3\VoteCounter\VoteCounter\VoteCounter\obj\Debug\VoteCounter.csproj.GenerateResource.cache
+D:\Agile Development With .NET\Assignment3\VoteCounter\VoteCounter\VoteCounter\obj\Debug\VoteCounter.csproj.CoreCompileInputs.cache
+D:\Agile Development With .NET\Assignment3\VoteCounter\VoteCounter\VoteCounter\obj\Debug\VoteCounter.exe
+D:\Agile Development With .NET\Assignment3\VoteCounter\VoteCounter\VoteCounter\obj\Debug\VoteCounter.pdb
+D:\Agile Development With .NET\Assignment3\VoteCounter\VoteCounter\VoteCounter\obj\Debug\VoteCounter.csprojAssemblyReference.cache
